@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+
+
+
+
+
+<script>
+
+
+
+let numeros = [15, 2, 35, 4, 5, 16, 7, 8, 10];
+
+for (let i = 0; i < numeros.length; i++) {
+        if (numeros[i]>=10){
+        console.log(numeros[i]);
+    }
+}
+
+
+
+
+function menorQue(n){return m => m < n }
+
+menorQue10 = menorQue(10);
+console.log(menorQue10(11))
+
+
+function aMenosQue(prueba, entonces) {
+    if(!prueba) entonces();
+}
+
+repetir(3, n => {
+    aMenosQue(n % 2 == 1, () => {
+        console.log(n, "es par");
+    });
+});
+
+
+
+const frutas = ["banana","fresa","limon"];
+
+
+console.log(frutas.map(fruta => fruta.length))
+
+
+
+
+
+
+class Mario{
+
+   nombre;
+   habilidad;
+
+
+   constructor(nombre,habilidad){
+
+this.nombre = nombre;
+this.habilidad = habilidad;
+
+
+
+}
+
+
+mario(){
+    this.nombre = Mario;
+    this.habilidad = Salto;
+}
+
+
+luigi(){
+    this.nombre = luigi;
+    this.habilidad = correr;
+}
+}
+
+
+console.log(mario).nombre;
+ </script>
+
+
+</body>
+</html>

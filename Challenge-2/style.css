@@ -1,0 +1,128 @@
+ nav {
+     background: linear-gradient(rgb(219, 5, 5), red);
+     height: 4vw;
+     width: 100%;
+     border: solid 1px rgb(163, 5, 5);
+     border-radius: 2%;
+     display: flex;
+     justify-content: space-around;
+     
+
+ }
+
+
+ .nav-1 {
+
+     color: white;
+     text-decoration: none;
+     position: relative;
+     top: 15px;
+
+ }
+
+ .nav-2 {
+
+     color: white;
+     text-decoration: none;
+     position: relative;
+     top: 15px;
+
+
+ }
+
+ .nav-3 {
+
+     color: white;
+     text-decoration: none;
+     position: relative;
+     top: 15px;
+
+
+ }
+
+
+ .nav-4 {
+
+     color: white;
+     text-decoration: none;
+     position: relative;
+     top: 15px;
+
+
+ }
+
+ .nav-5 {
+
+     color: white;
+     text-decoration: none;
+     position: relative;
+     top: 15px;
+
+
+ }
+
+
+
+ .imagen-de-nintento{
+
+    display: flex;
+    justify-content: center;
+
+
+
+ }
+
+
+ .titulo-completar{
+
+    display: flex;
+    justify-content: center;
+
+
+
+ }
+
+ .titulo-completar-2 {
+
+    display: flex;
+    justify-content: center;
+
+
+
+ }
+
+ .nombre-text{
+
+    position: relative;
+    left: 460px;
+
+
+ }
+
+ .boton{
+
+    position: relative;
+    left: 470px;
+
+
+
+ }
+
+
+ .productos{
+
+    position: relative;
+    left: 470px;
+
+
+
+
+ }
+
+ .titulo-casillas{
+
+    display: flex;
+    justify-content: center;
+
+
+ }

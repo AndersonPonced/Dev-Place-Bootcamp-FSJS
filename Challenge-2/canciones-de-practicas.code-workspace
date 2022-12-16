@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "../../si/canciones-de-practicas"
+		},
+		{
+			"path": "../../si/js"
+		},
+		{
+			"path": "../../si/partituras"
+		},
+		{
+			"path": "../../si/video"
+		},
+		{
+			"path": "../../si"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Challenge-2"
+	}
+}
